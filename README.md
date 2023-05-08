@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alagu
+- 👋 Hi, I’m @alagappan. you can call me @Azhagu or @Mani
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on Machine
